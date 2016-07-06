@@ -1,4 +1,4 @@
-# wumi_blog
+# wumi note like a blog
 for recording improvimg my experience
 
 first one.
