@@ -2,4 +2,4 @@
 for recording improvimg my experience
 
 
-不太写博客 就用issues来记些有的没的吧 have fun
+主要是自用,不太写博客 就用issues来记些有的没的吧 have fun
