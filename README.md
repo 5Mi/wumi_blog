@@ -4,6 +4,8 @@ improve my experience by recording
 
 主要是自用,不太写博客 就用 issues 来记些有的没的吧 have fun
 
+[掘金收藏夹](https://juejin.im/user/57ad4995d342d3005700cc7e/collections)
+
 ### css,sass
 
 - [css 实现一段不够一行时居中显示，多于一行时两端对齐](https://github.com/5Mi/wumi_blog/issues/54#issue-168822522)
