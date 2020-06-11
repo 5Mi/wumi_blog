@@ -2,7 +2,9 @@
 
 improve my experience by recording
 
-主要是自用,不太写博客 就用 issues 来记些有的没的吧 have fun
+主要是自用,不太写博客 就用 issues 来记些有的没的吧 have fun 
+
+**内容大多都是来自网络上大家的分享,感谢作者们给探索中的我们以指引**
 
 [掘金收藏夹](https://juejin.im/user/57ad4995d342d3005700cc7e/collections)
 
