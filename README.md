@@ -26,6 +26,7 @@ improve my experience by recording
 ### mobile-web
 
 - [mobile-web 相关](https://github.com/5Mi/wumi_blog/issues/53)
+- [微信小程序相关](https://github.com/5Mi/wumi_blog/issues/86)
 - [移动 Web 最佳实践（干货长文，建议收藏） 转载](https://mp.weixin.qq.com/s/rTJLEX_jDN2R2Ag6nWwWpA)
 - [scrollIntoViewIfNeeded 解决输入法遮挡](https://github.com/5Mi/wumi_blog/issues/81#issue-294734153)
 - [ios 滚动](https://github.com/5Mi/wumi_blog/issues/81#issuecomment-480653983)
