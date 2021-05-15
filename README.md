@@ -54,6 +54,7 @@ improve my experience by recording
 ### 面试,理论性
 
 - [一些个面试题与 js 知识点](https://github.com/5Mi/wumi_blog/issues/69)
+- [浏览器相关](https://github.com/5Mi/wumi_blog/issues/69#issuecomment-841673312)
 - [HTTP 请求中的 form data 和 request payload 的区别](https://github.com/5Mi/wumi_blog/issues/58#issuecomment-354058978)
 - [Content-type](https://github.com/5Mi/wumi_blog/issues/58#issuecomment-378530868)
 - [IIFE （Imdiately Invoked Function Expression 立即执行的函数表达式）](https://github.com/5Mi/wumi_blog/issues/56#issue-170070896)
